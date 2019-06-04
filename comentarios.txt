@@ -1,1 +1,2 @@
-esta carpeta sera dedicada a todo lo referente con redes neuronales y proyectos de python
+esta carpeta sera dedicada a todo lo referente con redes neuronales y proyectos de python.
+1..2..3
